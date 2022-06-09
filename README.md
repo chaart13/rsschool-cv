@@ -1,2 +1,1 @@
-# rsschool-cv
-Repository for Rolling Scopes School CV Project
+https://chaart13.github.io/rsschool-cv/cv
